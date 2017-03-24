@@ -21,8 +21,9 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 
 ###  Minus 2 weeks
 
-- [ ] Publish event Meetup.com
-- [ ] Tweet about the meet-up
+- [ ] Determine agenda
+- [ ] Publish event on Meetup.com
+- [ ] Tweet the event
 - [ ] Plan drinks and food
 
 ### Minus 1 week
