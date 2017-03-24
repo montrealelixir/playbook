@@ -5,3 +5,7 @@ This playbook provides guides and checklist to help organizers run the Montreal 
 ## About Montreal Elixir
 
 Join us every second Wednesday of the month to learn and share your passion for the Elixir programming language and the BEAM virtual machine.
+
+* https://www.meetup.com/montrealelixir
+* https://twitter.com/montrealelixir
+* https://github.com/montrealelixir
