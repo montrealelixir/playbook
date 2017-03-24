@@ -52,7 +52,7 @@ Would you like to present, but need a topic? Here are some suggestions:
 ### More general topics
 
 - [ ] OTP and Concurrency
-- [ ] Genflow
+- [ ] GenStage
 - [ ] Nerves
 - [ ] Umbrella Applications
 - [ ] Phoenix
