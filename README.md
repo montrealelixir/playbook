@@ -9,3 +9,4 @@ Join us every second Wednesday of the month to learn and share your passion for 
 * https://www.meetup.com/montrealelixir
 * https://twitter.com/montrealelixir
 * https://github.com/montrealelixir
+* https://www.youtube.com/channel/UCftyx5k7K_0a3wIGRtE2YQw
