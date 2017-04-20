@@ -25,6 +25,8 @@ Please message one of the organizers on [Meetup.com](https://www.meetup.com/mont
 
 * Presentation format (full, demi, lightning)
 * Title and description
+* Your biography (1-2 sentences)
+* Twitter handle
 * Can the talk be recorded
 * Open to questions in the group
 * Adapter requirements for HDMI connection (if required)
