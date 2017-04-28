@@ -18,7 +18,7 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 - [ ] Book the venue
 - [ ] Schedule talks
 - [ ] Identify sponsor
-- [ ] Apply for liquor license
+- [ ] [Apply for liquor license](https://www.racj.gouv.qc.ca/en/formulaires-et-publications/forms/alcohol/reunion-permits/application-for-a-reunion-permit.html)
 
 ###  Minus 2 weeks
 
