@@ -4,17 +4,17 @@ The monthly meet-up provides you an opportunity to share you passion, knowledge 
 
 ### 1. Full-Presentation
 
-* 30 minutes in length
+* ~30-40 mins in length (aim for a ~30 minute talk, allowing ~10 minutes for questions)  
 * Great for prepared presenters
 
 ### 2. Demi-presentation
 
-* 10-15 minutes
+* ~15-20 mins (aim for a ~15 minute talk, allowing ~5 minutes for questions)
 * Great for presenters that want to share, but don't have the time to prepare a longer presentation
 
 ### 3. Lightning talk
 
-* 5 minutes maximum
+* 5 mins maximum (questions depending on time available)
 * Great opportunity for first time presenters
 
 After the presentation, members will be given the opportunity to ask you questions. You may also answer questions one-on-one after your presentation, as an alternative to answering questions in front of the group if you prefer.
