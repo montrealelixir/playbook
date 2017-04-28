@@ -18,6 +18,7 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 - [ ] Book the venue
 - [ ] Schedule talks
 - [ ] Identify sponsor
+- [ ] Apply for liquor license
 
 ###  Minus 2 weeks
 
