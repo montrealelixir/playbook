@@ -68,6 +68,7 @@ Would you like to present, but need a topic? Here are some suggestions:
 - [ ] Ecto (and other alternatives)
 - [ ] Websockets
 - [ ] Macros
+- [ ] Dialyzer
 
 ## Presentation Support
 
