@@ -75,16 +75,21 @@ Make sure to not forget any cables on location.
 
 We use Screenflow for video editing.  If you do not have a license, please contact the meetup organizer.
 
-First, create a working folder on your computer.  Then copy the files from the SD cards.
+First, create a working folder on your computer.  Then copy the files from the SD cards to the working folder.
 
 Now let's edit a presentation.
 
-First, copy the template to use.  If the presenter was to the left of the screen, use _template-left_, otherwise use _template-right_.
+First, download the template to use.  The templates (zipped) can be found in the Montreal Elixir Playbook.
+
+- If the presenter was to the left of the screen, use _template-left_,
+- otherwise use _template-right_.
 
 Then, open up the file in screenflow.  Get familiar with the assets in the template.  Watch it to see how the transactions are implemented.
 
 If required, add/remove sponsors.  One sponsor per "slide".
 
-Then you can remove the presenter's video and HDMI capture.  Click on each in the timeline and hit Backspace.
+Notice where the clips are located in the timeline.  You can then remove the presenter's clib and HDMI capture clip.  Click on each one and hit Backspace.
+
+Now
 
 More to de added later.
