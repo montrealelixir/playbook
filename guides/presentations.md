@@ -69,6 +69,7 @@ Would you like to present, but need a topic? Here are some suggestions:
 - [ ] Websockets
 - [ ] Macros
 - [ ] Dialyzer
+- [ ] Configuration files (compilation & runtime)
 
 ## Presentation Support
 
