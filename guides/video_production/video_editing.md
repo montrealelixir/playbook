@@ -45,11 +45,13 @@ On location, you should plan about 30 minutes to set-up the equipment and check 
 
 Refer to this diagram for connections.
 
-[diagram](...)
+![Connections diagram](https://docs.google.com/drawings/d/1mxUKEQqSELnjhTHq_CA1ekorQ5MFLBsgO_hFsaPFnoA/pub?w=960&h=720)
 
 For the video camera, you want a little portion of the screen to be in the frame. This will help syncing the video with the HDMI capture during the video editing process. Here's an example of a good framing:
 
-[video-frame](...)
+![video-frame](images/videoframe.png)
+
+To the right, we see a small portion of the projection screen.  This portion will be edited out later.
 
 
 ## Record each presentation
