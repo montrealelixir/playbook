@@ -34,7 +34,11 @@ This guide documents the recording and video editing of the Montreal Elixir meet
 
 ## Pre-meetup checks
 
-The day before, make sure all the batteries are fully charged. Check the battery level on the wireless mic units (turn them on and look at the level on the screen). Erase old files on the SD cards.
+The day before:
+
+- make sure all the batteries are fully charged
+- check the battery level on the wireless mic units (turn them on and look at the level on the screen)
+- erase old files on the SD cards.
 
 With each presenter, make sure her/his computer has notifications disabled and nightshift off. See playbook for instructions. Then do a quick HDMI capturing test, to make sure it works with her/his computer.
 
@@ -67,11 +71,11 @@ To the right, we see a small portion of the projection screen.  This portion wil
 - Stop video recording when no more questions
 - Turn off HDMI capturing
 
-Note: we do record the questions, but at the moment, we are not using including them in the final video edit. But we never know.
+Note: we do record the questions, but currently, we are not including them in the final video edit.
 
 ## Pack equipment
 
-Make sure to not forget any cables on location.
+Do not forget any cables on location.
 
 ## Video Editing
 
@@ -81,7 +85,7 @@ First, create a working folder on your computer. Then copy the files from the SD
 
 Now let's start video editing the presentation.
 
-IMPORTANT: save often your work in Screenflow!!! If can crash, and it will crash.
+IMPORTANT: save your work often in Screenflow!!! It can crash, and it will crash.
 
 ### Template
 
@@ -90,13 +94,13 @@ First, download the template to use. The templates (zipped) can be found in the 
 - If the presenter was to the left of the screen, use _template-left_,
 - otherwise use _template-right_.
 
-Then, open up the file in screenflow. Get familiar with the assets in the template. Watch it to see how the transactions are implemented.
+Then, open up the file in Screenflow. Get familiar with the assets in the template. Watch it to see how the transitions are implemented.
 
 ![Media Library](images/media_library.png)
 
 ### Title
 
-First, save your work.  You may also want to turn of the "Show Audio Waveforms" option in the View menu to speed up Screenflow.
+First, save your work. You may also want to turn of the "Show Audio Waveforms" option in the View menu to speed up Screenflow.
 
 In the timeline, drag the "pointer" the title _slide_ and click on the title clip in the timeline (first row, first clip). You should see the presentation title in the preview pane. In the preview pane, double-click on the title and update it. Do the same with the presenter name and the date.
 
@@ -112,7 +116,7 @@ In the toolbar panel at the right, click on the last icon. That should bring up 
 
 ### Presenter clip
 
-Now locate the presenter's clip in the media libray and drag it on the second row, at the end (after the dummy one we have there). It's around the 28s mark.
+Now locate the presenter's clip in the media library and drag it on the second row, at the end (after the dummy one we have there). It's around the 28s mark.
 
 Preview the video and locate where the presentation should start. Right-click on the clip and select "Split Clip" (or T on the keyboard). The first part should automatically be selected. Hit "Delete" on the keyboard to delete it. Go at the end of the clip and locate where the presentation should stop. It should stop just before the questions, and after the audience stopped applauding. Split the clip at that location and delete the last part.
 
@@ -126,7 +130,7 @@ Locate the HDMI clip in the media library and drag it on the third row at around
 
 In the preview pane, locate the vertical handles (small circle in the middle). Click on it and drag to resize the video. Make the border snap with the presenter's clip.
 
-The next step is to drag the presenter's video on the timeline so that both clips are synced. This can be a bit tedious. The frame should include a small portion of the projection screen at the right (or left). The presentation most likely has a change in the background color. Locate that moment in the first few seconds of the presenter's clip. In the Video page, click on "+ Action" just to create a visual indicator on the clip in the timeline. Now click on the HDMI clip, and locate that same moment in the timeline. When you find it, drag the presenter's video left or right to have the video action aligned. Tweak the position of each clip.
+The next step is to drag the presenter's video on the timeline so that both clips are synced. This can be a bit tedious. The frame should include a small portion of the projection screen at the right (or left). The presentation most likely has a change in the background colour. Locate that moment in the first few seconds of the presenter's clip. In the Video page, click on "+ Action" just to create a visual indicator on the clip in the timeline. Now click on the HDMI clip, and locate that same moment in the timeline. When you find it, drag the presenter's video left or right to have the video action aligned. Tweak the position of each clip.
 
 Then you can split the HDMI clip and remove the "overflow".
 
