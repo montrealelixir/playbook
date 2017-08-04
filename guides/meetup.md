@@ -11,6 +11,31 @@
 
 Copy-paste the following in Github Issues to keep track of the tasks and distribute them.
 
+<hr>
+
+## Presenters
+
+| speaker | status | title | description | bio | length | requirements |
+| --- | --- | --- | --- | ---| ---| --- |
+| ? |? | ? | ? | ?| ? | ? |
+
+## Program
+
+| Time | Item  |
+| --- | --- |
+| 18:30 | Mingle |
+|       | A chance to meet and chat with other Elixir enthusiasts before the presentations start. Grab a bite to eat. |
+| 19:00 | Welcome and Community Updates by ? |
+|       | A review of points of interest in our local community and Elixir in general. |
+| 19:20 | Break |
+| 19:25 | TBD |
+| 19:50 | Break |
+| 19:55 | TBD |
+| 20:20 | Open Announcements |
+|       | Would you like to introduce yourself to the group and what you hope to learn? Are you a company looking to hire an Elixir developer? Please share! |
+| 20:30 | Finish |
+|       | See you in ___! |
+
 ## Checklist
 
 ### ASAP
