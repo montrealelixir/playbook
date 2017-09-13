@@ -64,7 +64,7 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 
 ### On the day
 
-- [ ] Order the food (http://www.pizzafco.com/contact/)
+- [ ] Order the food (http://www.pizzafco.com/contact/)  Order 1m pizzas. Ask them to slice it in 14.  About 2 slices per person.
   - Boscaiola
   - Margherita
   - Speck
