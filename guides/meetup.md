@@ -76,7 +76,8 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
   > Hey, everybody, we're looking forward to seeing you tonight. If you're unable to make it, can you please update your RSVP as a "No". This will be a big help with planning. Hopefully, we'll see you in next month instead.- [ ] Print name tags
 - [ ] Print "Repeat the question" sign
 - [ ] Print [presentation checklist](https://github.com/montrealelixir/playbook/issues/18)
-- [ ] Plan to be at the venue at 17:30 to be ready at 18:00
+- [ ] Plan to be at the venue at 17:00 to be ready at 18:00
+- [ ] Bring the liquor permit
 
 > Hey, everybody, we're looking forward to seeing you tonight. If you're unable to make it, can you please update your RSVP as a "No". This will be a big help with planning. Hopefully, we'll see you in next month instead.
 
