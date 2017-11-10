@@ -128,6 +128,7 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 
 - [ ] Produce and post presentation videos
 - [ ] Review checklist from Playbook to incorporate new items
+- [ ] Create issue for next event
 
 ## Credits
 
