@@ -79,9 +79,10 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 
 - [ ] Order the food (http://www.pizzafco.com/contact/)  
 
-Order 1m pizzas. Ask them to slice it in 14. About 2 slices per person. Have it delivered to Shopify, 525 Ave Viger, Suite 300. The delivery person will ask for the credit card that was used to pay the order.
+  Order 1m pizzas. Ask them to slice it in 14. About 2 slices per person. 
+  Have it delivered to Shopify, 525 Ave Viger, Suite 300. The   delivery person will ask for the credit card that was used to pay the order.
 
-- Boscaiola
+  - Boscaiola
   - Margherita
   - Speck
   - Caprese	
