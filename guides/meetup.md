@@ -17,21 +17,13 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 
 ### Presentation - {presenter name}
 
-Presentation format: {format}
-
-Title: {title}
-
-Description: {description}
-
-Twitter handle: {twitter}
-
-Can the talk be recorded: {yes/no}
-
-Can the be photographed and shared on social media: {yes/no}
-
-Open to questions in the group: {yes/no}
-
-Adapter requirements for HDMI connection: {details}
+- Presentation format (full, demi, lightning): {format}
+- Title and description: {title}. {description}
+- Your biography (1-2 sentences): {bio}
+- Twitter handle: {twitter} 
+- Can the talk be recorded: {yes/no} 
+- Open to questions in the group: {yes/no} 
+- Adapter requirements for HDMI connection (if required): {yes/no}
 
 ## Program
 
