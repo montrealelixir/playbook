@@ -122,6 +122,7 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 - [ ] Email the venue to say thank you
 - [ ] Email the speakers to say thank you
 - [ ] Post photos to Meetup.com
+- [ ] Archive the event in the `events` repository
 
 ### ASAP
 
