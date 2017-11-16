@@ -43,7 +43,7 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 - [ ] Book the venue (currently Shopify - until end of 2017)
 - [ ] Schedule talks
 - [ ] Identify sponsor
-- [ ] Apply for liquor permit: [Form](https://www.racj.gouv.qc.ca/en/formulaires-et-publications/forms/alcohol/reunion-permits/application-for-a-reunion-permit.html)
+- [ ] Apply for liquor permit: [Online Form](https://pes.securitepublique.gouv.qc.ca/acolyte/facettes/permis/captcha.faces?sid=0QJY03KP9RKWS)
 
 ###  Minus 2 weeks
 
