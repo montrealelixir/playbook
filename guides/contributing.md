@@ -11,44 +11,65 @@ There are a number of ways you can contribute to the Montreal Elixir community.
 - [Contribute to the playbook](https://github.com/montrealelixir/playbook)
 - [Curate education trails](https://github.com/montrealelixir/playbook/tree/master/trails)
 
-# Running events
+# Running meetups
 
-We also need help with running events.  Here are the different roles involved in running a meetup event.
+We also need help with running monthly meetups. Listed below are the different roles and their
+responsibilities.
 
-### Event Organizer
+## Event Organizer
 
-- Manage the event using an issue on Github
-- Coordinate with the venue sponsor
-- Coordinate with the food and drinks sponsor
-- Contact and confirm the presenters
-- Create the meetup event
-- Communicate event-related information through Twitter and Meetup messages
+A person responsible for the preparation of the event. This typically begins as soon
+as the last event is over and involves:
 
-### Host
+- communicating the event on [Meetup.com](https://www.meetup.com/montrealelixir/) and
+  [Twitter](https://twitter.com/montrealelixir)
+- managing the event using an issue on [GitHub](https://github.com/montrealelixir/events/issues)
+- coordinating with the venue sponsor
+- coordinating with the refreshments sponsor
+- contacting and confirming the presenters via Meetup.com messaging and ensure all
+  [presentation details](./presentations.md#booking-your-presentation) have been collected
 
-- Introduction and welcome newcomers
-- Venue related information
-- Evening schedule
-- Introduce each presenter
+## Host
 
-### Community Advocate
+A person responsible for hosting the event. This involves:
 
-- Present a community update at the meetup
+- introducing and welcoming newcomers
+- communicating venue related information
+- presenting the event schedule
+- introducing each presenter
 
-### Videographer
+## Community Advocate
 
-- Set-up equipment
-- Record talks at the meetup.
-- Provide footage to video producer
-- See [guide](./video_production/README.md)
+A person responsible for promoting ideas and resources that are helpful to community members. This
+involves a short presentation (~10 mins) at the meetup, but includes on-going communication
+through social media channels such as [Twitter](https://twitter.com/montrealelixir). Items that
+maybe of interesting to the community include:
 
-### Video Producer
+- introduction to newcomers of assets are available; e.g. [website](http://www.montrealelixir.ca), [YouTube](https://www.youtube.com/channel/UCftyx5k7K_0a3wIGRtE2YQw), etc
+- updates to the community website or issues that need to be addressed
+- new resources such as books and screencast
+- blog posts of specific interest
+- news about up-coming events
 
-- Produce the videos for YouTube
-- Upload videos to YouTube and add description and tags
--	See [guide](./video_production/README.md)
+## Videographer
 
-### Sponsor
+A person responsible for recording presentations. For more information see the [guide](./video_production/README.md).
+This involves:
 
-- Sponsor venue and/or food & drinks
-- Sponsor video production
+- setting-up equipment; e.g. sound checks
+- recording presentations
+- providing footage to the video producer
+
+## Video Producer
+
+A person responsible for producing and publishing recordings of the presentations.
+For more information see the [guide](./video_production/README.md). This involves:
+
+- producing the videos in [ScreenFlow](https://www.telestream.net/screenflow/)
+- uploading videos to [YouTube](https://www.youtube.com/channel/UCftyx5k7K_0a3wIGRtE2YQw) along
+  with adding description and tags
+- announcing their availability on Meetup.com and Twitter
+
+## Sponsor
+
+A person/company responsible for providing a venue and/or covering the cost of refreshments.
