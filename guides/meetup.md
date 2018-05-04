@@ -20,15 +20,15 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 - Presentation format (full, demi, lightning): {format}
 - Title and description: {title}. {description}
 - Your biography (1-2 sentences): {bio}
-- Twitter handle: {twitter} 
-- Can the talk be recorded: {yes/no} 
-- Open to questions in the group: {yes/no} 
+- Twitter handle: {twitter}
+- Can the talk be recorded: {yes/no}
+- Open to questions in the group: {yes/no}
 - Adapter requirements for HDMI connection (if required): {yes/no}
 
 ## Program
 
 - 18:30 Mingle: A chance to meet and chat with other Elixir enthusiasts before the presentations start. Grab a bite to eat.
-- 19:00 Welcome and Community Updates by {name}: A review of points of interest in our local community and Elixir in general. 
+- 19:00 Welcome and Community Updates by {name}: A review of points of interest in our local community and Elixir in general.
 - 19:20 Break
 - 19:25 {presentation 1}
 - 19:50 Break
@@ -71,13 +71,13 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 
 - [ ] Order the food (http://www.pizzafco.com/contact/)  
 
-  Order 1m pizzas. Ask them to slice it in 14. About 2 slices per person. 
+  Order 1m pizzas. Ask them to slice it in 14. About 2 slices per person.
   Have it delivered to Shopify, 525 Ave Viger, Suite 300. The   delivery person will ask for the credit card that was used to pay the order.
 
   - Boscaiola
   - Margherita
   - Speck
-  - Caprese	
+  - Caprese
   - Diavola
 
 - [ ] Buy the drinks
@@ -87,7 +87,7 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 - [ ] Bring the liquor permit
 
 #### Presentations
-  
+
 - [ ] Prepare recording equipment
 - [ ] Print name tags
 - [ ] Print [presentation checklist](https://github.com/montrealelixir/playbook/issues/18)
@@ -119,6 +119,7 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 ### ASAP
 
 - [ ] Produce and post presentation videos
+- [ ] Announce videos Meetup.com and Twitter
 - [ ] Review checklist from Playbook to incorporate new items
 - [ ] Create issue for next event
 
