@@ -19,6 +19,10 @@ The monthly meet-up provides you an opportunity to share you passion, knowledge 
 
 After the presentation, members will be given the opportunity to ask you questions. You may also answer questions one-on-one after your presentation, as an alternative to answering questions in front of the group if you prefer.
 
+## Preparing your presentations
+
+There are many good resources available on preparing for your presentation. Gary Bernhardt's [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk) is an example. If you think there are additional resources that would be helpful to include in this Guide, please create an issue with your suggestion.
+
 ## Booking your presentation
 
 Please message one of the organizers on [Meetup.com](https://www.meetup.com/montrealelixir/) to notify them that you would like to present and for which month. Within two weeks of the meet-up, we would need to know:
