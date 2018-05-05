@@ -167,15 +167,6 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 - [ ] Produce and publish videos ASAP
 - [ ] Announce videos on Twitter and Meetup.com
 
-## Presenters checklist
-
-### Before the event starts
-
-- [ ] Each presenter tests the connection with the AV system (adapter, screen mirroring, resolution, font-size, ...)
-- [ ] Each presenter makes sure night shift and notifications are disabled (OS & browsers) (see #7)
-- [ ] Each presenter checks its energy saving preferences to make sure the display does not shut off too early
-- [ ] Each presenter makes sure the font size in Terminal and other tools is optimal
-
 ## Credits
 
 The checklist is based on and inspired by [montreal.rb](https://github.com/montrealrb/playbook/blob/master/checklists/meetup.md).
