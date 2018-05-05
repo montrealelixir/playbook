@@ -31,6 +31,10 @@ Please message one of the organizers on [Meetup.com](https://www.meetup.com/mont
 * Open to questions in the group
 * Adapter requirements for HDMI connection (if required)
 
+## On the Night
+
+Before you present, please ensure you have completed the tasks in the [Presenters Checklist](../checklists/presenters.md). These tasks will ensure your presentation goes smoothly - and who doesn't want that!
+
 ## Recording your presentation
 
 If you provide permission, your presentation will be recorded and posted to [YouTube](https://www.youtube.com/channel/UCftyx5k7K_0a3wIGRtE2YQw) using [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license. The recording includes a visual of you presenting along with your presentation slides.
