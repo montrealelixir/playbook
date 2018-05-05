@@ -164,7 +164,8 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 
 ### ASAP after the event
 
-- [ ] Produce and publish videos ASAP
+- [ ] Produce and publish videos
+- [ ] Include links to slides on YouTube
 - [ ] Announce videos on Twitter and Meetup.com
 
 ## Credits
