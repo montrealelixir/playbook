@@ -1,4 +1,4 @@
-# Monthly Meet-up
+# Monthly Meetup
 
 ## About
 
@@ -12,6 +12,14 @@
 Copy-paste the following in Github Issues to keep track of the tasks and distribute them.
 
 <hr>
+
+## Roles
+
+- Event Organizer: {name}
+- Host: {name}
+- Community Advocate: {name}
+- Videographer: {name}
+- Video Producer: {name}
 
 ## Presenters
 
@@ -36,11 +44,11 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 - 20:20 Open Announcements: Would you like to introduce yourself to the group and what you hope to learn? Are you a company looking to hire an Elixir developer? Please share!
 - 20:30 Finish: See you in {month}!
 
-## Checklist
+## Event Organizer Checklist
 
-### ASAP
+### ASAP before the event
 
-- [ ] Book the venue (currently Shopify - until end of 2017)
+- [ ] Book the venue
 - [ ] Schedule talks
 - [ ] Identify sponsor
 - [ ] Apply for liquor permit: [Online Form](https://pes.securitepublique.gouv.qc.ca/acolyte/facettes/permis/captcha.faces?sid=0QJY03KP9RKWS)
@@ -55,17 +63,18 @@ Copy-paste the following in Github Issues to keep track of the tasks and distrib
 
 - [ ] Check with the speakers if they need anything
 - [ ] Check with the sponsors if for announcements
-- [ ] Prepare introduction notes
-- [ ] Prepare community update
 - [ ] Request for bar server
 
-### On the day
+### On the day of the event
 
 Plan to be at the venue at 17:00 to be ready at 18:00
 
 - [ ] Request an update on RSVP's
 
 > Hey, everybody, we're looking forward to seeing you tonight. If you're unable to make it, can you please update your RSVP as a "No". This will be a big help with planning. Hopefully, we'll see you in next month instead.
+
+- [ ] Print name tags
+- [ ] Print [presentation checklist](https://github.com/montrealelixir/playbook/issues/18)
 
 #### Food and Beverage
 
@@ -86,41 +95,86 @@ Plan to be at the venue at 17:00 to be ready at 18:00
   - 1 x 12 water
 - [ ] Bring the liquor permit
 
-#### Presentations
-
-- [ ] Prepare recording equipment
-- [ ] Print name tags
-- [ ] Print [presentation checklist](https://github.com/montrealelixir/playbook/issues/18)
-
 ### During the event
 
 - [ ] Display welcome slide with sponsors
 - [ ] Put music on
-- [ ] Prepare backup questions
-- [ ] Take photos of presenters
-- [ ] Live tweet
 - [ ] Display the liquor permit
 
-### Closing the event
+### At the end of the event
 
-- [ ] Pack everything, don't forget any equipment
 - [ ] Take liquor permit back
 
-### The day after the event
+### Plus 1 day
 
 - [ ] Write a follow-up on Meetup.com
 - [ ] A tweet of appreciation to sponsors
 - [ ] Email the sponsors to say thank you
 - [ ] Email the venue to say thank you
 - [ ] Email the speakers to say thank you
-- [ ] Post photos to Meetup.com
 
-### ASAP
+### ASAP after the event
 
-- [ ] Produce and post presentation videos
-- [ ] Announce videos Meetup.com and Twitter
 - [ ] Review checklist from Playbook to incorporate new items
 - [ ] Create issue for next event
+
+## Community Advocate
+
+### Minus 1 week
+
+- [ ] Prepare introduction notes
+- [ ] Prepare community update
+
+### During presentations
+
+- [ ] Prepare backup questions
+- [ ] Take photos of presenters
+- [ ] Live tweet
+
+### ASAP after the event
+
+- [ ] Post photos to Meetup.com
+
+## Videographer Checklist
+
+### On the day of the event
+
+- [ ] Prepare recording equipment
+- [ ] Recharge camera batteries
+- [ ] Make sure AA batteries are OK in the wireless audio modules
+
+### Before the event starts
+
+- [ ] Perform sound check (mic, camera, venue AV system)
+- [ ] HDMI capture test (capture, then verify content on SD card)
+
+### Before the presentation
+
+- [ ] Install mic on presenter
+- [ ] **IMPORTANT** make sure the cables are properly screwed to the receiver/transmitter units. Otherwise, you could loose the audio when the cable move.
+- [ ] Sound check
+- [ ] Start HDMI capturing
+- [ ] Start video recording (make sure we have portion of the displayed slides so we can sync video with HDMI capturing)
+
+### At the end of the event
+
+- [ ] Pack equipment
+
+## Video Producer Checklist
+
+### ASAP after the event
+
+- [ ] Produce and publish videos ASAP
+- [ ] Announce videos on Twitter and Meetup.com
+
+## Presenters checklist
+
+### Before the event starts
+
+- [ ] Each presenter tests the connection with the AV system (adapter, screen mirroring, resolution, font-size, ...)
+- [ ] Each presenter makes sure night shift and notifications are disabled (OS & browsers) (see #7)
+- [ ] Each presenter checks its energy saving preferences to make sure the display does not shut off too early
+- [ ] Each presenter makes sure the font size in Terminal and other tools is optimal
 
 ## Credits
 
