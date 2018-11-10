@@ -166,7 +166,10 @@ Plan to be at the venue at 17:00 to be ready at 18:00
 
 - [ ] Produce and publish videos
 - [ ] Include links to slides on YouTube
-- [ ] Announce videos on Twitter and Meetup.com
+- Announce videos
+  - [ ] [Twitter](https://twitter.com/montrealelixir)
+  - [ ] [Meetup.com](https://www.meetup.com/montrealelixir/)
+  - [ ] [ElixirForum](https://elixirforum.com/c/learning-resources/talks)
 
 ## Credits
 
