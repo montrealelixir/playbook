@@ -72,4 +72,11 @@ For more information see the [guide](./video_production/README.md). This involve
 
 ## Sponsor
 
-A person/company responsible for providing a venue and/or covering the cost of refreshments.
+A person/company responsible for providing:
+
+- a venue
+- cost of food
+- cost of refreshments
+- cost of web site hosting (Heroku)
+- video production
+- books and/or subscriptions
