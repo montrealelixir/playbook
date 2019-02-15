@@ -18,3 +18,12 @@ Would you like to help build and support the Elixir community in Montreal? We ar
 ## How to Sponsor
 
 Please contact us at sponsorship dot montrealelixir.ca to discuss event sponsorship. The Montreal Elixir community greatly appreciates your support!
+
+Some examples:
+
+- providing the venue for the meetups
+- cost of food
+- cost of refreshments
+- cost of web site hosting (Heroku)
+- video production
+- books and/or subscriptions
