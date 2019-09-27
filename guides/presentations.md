@@ -1,6 +1,7 @@
 # Presentations Guide
 
-The monthly meet-up provides you an opportunity to share you passion, knowledge and experiences with other members of the group. There are three suggested formats you can choose from:
+The monthly meet-up provides you an opportunity to share you passion, knowledge and experiences with
+other members of the group. There are four suggested formats you can choose from:
 
 ### 1. Full-Presentation
 
@@ -12,20 +13,33 @@ The monthly meet-up provides you an opportunity to share you passion, knowledge 
 * ~15-20 mins (aim for a ~15 minute talk, allowing ~5 minutes for questions)
 * Great for presenters that want to share, but don't have the time to prepare a longer presentation
 
-### 3. Lightning talk
+### 3. Code and Tell
+
+* ~15-20 mins (aim for a ~15 minute talk, allowing ~5 minutes for questions)
+* Present a casual walk-through of code from an application or library you have written
+* Great for coders who do not wish to prepare a formal presentation
+
+### 4. Lightning talk
 
 * 5 mins maximum (questions depending on time available)
 * Great opportunity for first time presenters
 
-After the presentation, members will be given the opportunity to ask you questions. You may also answer questions one-on-one after your presentation, as an alternative to answering questions in front of the group if you prefer.
+After the presentation, members will be given the opportunity to ask you questions. You may also
+answer questions one-on-one after your presentation, as an alternative to answering questions in
+front of the group if you prefer.
 
 ## Preparing your presentations
 
-There are many good resources available on preparing for your presentation. Gary Bernhardt's [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk) is an example. If you think there are additional resources that would be helpful to include in this Guide, please create an issue with your suggestion.
+There are many good resources available on preparing for your presentation. Gary Bernhardt's [How to
+prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk) is an example. If you
+think there are additional resources that would be helpful to include in this Guide, please create
+an issue with your suggestion.
 
 ## Booking your presentation
 
-Please message one of the organizers on [Meetup.com](https://www.meetup.com/montrealelixir/) to notify them that you would like to present and for which month. Within two weeks of the meet-up, we would need to know:
+Please message one of the organizers on [Meetup.com](https://www.meetup.com/montrealelixir/) to
+notify them that you would like to present and for which month. Within two weeks of the meet-up, we
+would need to know:
 
 * Presentation format (full, demi, lightning)
 * Title and description
@@ -37,11 +51,16 @@ Please message one of the organizers on [Meetup.com](https://www.meetup.com/mont
 
 ## On the Night
 
-Before you present, please ensure you have completed the tasks in the [Presenters Checklist](../checklists/presenters.md). These tasks will ensure your presentation goes smoothly - and who doesn't want that!
+Before you present, please ensure you have completed the tasks in the [Presenters
+Checklist](../checklists/presenters.md). These tasks will ensure your presentation goes smoothly -
+and who doesn't want that!
 
 ## Recording your presentation
 
-If you provide permission, your presentation will be recorded and posted to [YouTube](https://www.youtube.com/channel/UCftyx5k7K_0a3wIGRtE2YQw) using [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license. The recording includes a visual of you presenting along with your presentation slides.
+If you provide permission, your presentation will be recorded and posted to
+[YouTube](https://www.youtube.com/channel/UCftyx5k7K_0a3wIGRtE2YQw) using [Creative Commons
+Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license. The recording
+includes a visual of you presenting along with your presentation slides.
 
 ## Suggested topics
 
@@ -81,7 +100,10 @@ Would you like to present, but need a topic? Here are some suggestions:
 
 ## Presentation Support
 
-We're here to help! Presenting in front of a group can be a nerve-racking experience. We've been there! But with the right support it can be a great experience and a professional accelerator. Please contact the organizers on [Meetup.com](https://www.meetup.com/montrealelixir/). Some of the ways we can help are:
+We're here to help! Presenting in front of a group can be a nerve-racking experience. We've been
+there! But with the right support it can be a great experience and a professional accelerator.
+Please contact the organizers on [Meetup.com](https://www.meetup.com/montrealelixir/). Some of the
+ways we can help are:
 
 * discussing topic ideas
 * sharing our experiences presenting
