@@ -50,6 +50,8 @@ Refer to this diagram for connections.
 
 ![Connections diagram](https://docs.google.com/drawings/d/1mxUKEQqSELnjhTHq_CA1ekorQ5MFLBsgO_hFsaPFnoA/pub?w=960&h=720)
 
+Make sure you have a Fat32 SD card in the HDMI capturing device. Otherwise, the recording will not work and the ring will be flashing blue.
+
 For the video camera, you want a little portion of the screen to be in the frame. This will help syncing the video with the HDMI capture during the video editing process. Here's an example of a good framing:
 
 ![video-frame](images/videoframe.png)
